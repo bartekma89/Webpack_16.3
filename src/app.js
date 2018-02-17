@@ -1,3 +1,3 @@
-const log = require("./log.js");
+import log from "./log.js";
 
-log("Hello World");
+log("Hello WoRlD");
